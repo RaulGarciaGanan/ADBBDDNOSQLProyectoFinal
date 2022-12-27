@@ -1,0 +1,39 @@
+<LIBROS>
+<EMP_ROW id="1">
+        <TITULO>pilar</TITULO>
+        <AUTOR>ken</AUTOR>
+        <ANOPUBLICACION>2012</ANOPUBLICACION>
+    </EMP_ROW>
+<EMP_ROW id="2">
+        <TITULO>sad</TITULO>
+        <AUTOR>ken</AUTOR>
+        <ANOPUBLICACION>12345</ANOPUBLICACION>
+    </EMP_ROW>
+
+    <EMP_ROW id="4">
+        <TITULO>qwe</TITULO>
+        <AUTOR>dfg</AUTOR>
+        <ANOPUBLICACION>23456</ANOPUBLICACION>
+    </EMP_ROW>
+    
+<EMP_ROW id="6">
+        <TITULO>asdfgh</TITULO>
+        <AUTOR>asdfvg</AUTOR>
+        <ANOPUBLICACION>1234</ANOPUBLICACION>
+    </EMP_ROW>
+    <EMP_ROW id="7">
+        <TITULO>qwerty</TITULO>
+        <AUTOR>qwerty</AUTOR>
+        <ANOPUBLICACION>1234</ANOPUBLICACION>
+    </EMP_ROW>
+    <EMP_ROW id="8">
+        <TITULO>bnm</TITULO>
+        <AUTOR>bnm</AUTOR>
+        <ANOPUBLICACION>12345</ANOPUBLICACION>
+    </EMP_ROW>
+    <EMP_ROW id="10">
+        <TITULO>plk</TITULO>
+        <AUTOR>plk</AUTOR>
+        <ANOPUBLICACION>1234</ANOPUBLICACION>
+    </EMP_ROW>
+</LIBROS>
